@@ -140,7 +140,7 @@ public class ManutencaoProfessor extends javax.swing.JDialog {
     }//GEN-LAST:event_jtfNomeActionPerformed
 
     private void btnAdicionarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAdicionarActionPerformed
-        controlador.ControladorAdicionar.inserir(this);// TODO add your handling code here:
+        controlador.ControladorProfessor.inserir(this);// TODO add your handling code here:
     }//GEN-LAST:event_btnAdicionarActionPerformed
 
     /**
